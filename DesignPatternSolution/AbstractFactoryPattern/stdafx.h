@@ -13,3 +13,11 @@
 
 
 // TODO:  在此处引用程序需要的其他头文件
+#include "Shape.h"
+#include "Color.h"
+#include "RedColor.h"
+#include "BlueColor.h"
+#include "Square.h"
+
+#include <iostream>
+using namespace std;
